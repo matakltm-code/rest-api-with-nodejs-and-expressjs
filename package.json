@@ -1,0 +1,32 @@
+{
+  "name": "rest-api-with-nodejs-and-express",
+  "version": "1.0.0",
+  "description": "Rest api with NodeJs and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "restapi",
+    "nodejs",
+    "express"
+  ],
+  "engines": {
+    "node": "16.14.x"
+  },
+  "author": "Micheal Ataklt",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.5",
+    "uuid": "^8.3.2"
+  }
+}
