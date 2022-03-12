@@ -10,6 +10,6 @@ Todo app for any user managed by system admin...
 
 ## Documentation
 
-- [API End Point](https://rest-api-nodejs-and-express.herokuapp.com/)
+- [API Endpoint](https://rest-api-nodejs-and-express.herokuapp.com/)
 - [API Documentation](https://documenter.getpostman.com/view/12136658/UVsHV8PT)
 - all features and parameters are set in each example request docs
